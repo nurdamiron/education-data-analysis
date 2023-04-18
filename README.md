@@ -3,7 +3,7 @@
 ## About Dataset
 ### Context
 
-####This is official open data from The Ministry of Internal Affairs of the Russian Federation on missing and wanted people, identified and unindentified corpses. Original data available here source.
+#### This is official open data from The Ministry of Internal Affairs of the Russian Federation on missing and wanted people, identified and unindentified corpses. Original data available here source.
 Content
 
 ### File meta.csv - contain information about data source and contact information of original owners in Russian.
@@ -38,21 +38,21 @@ Content
 
     "Importance of the statistical factor" - value of correspondent statistical factor.
 
-Files data-%Y%m%d-structure-20140727.csv contain actual data. Names of the files contain release date. Data aggregated by quarters of each year, for example
-data-20150127-structure-20140727.csv - data for whole 2014 year
-data-20150627-structure-20140727.csv - data for Q1 and Q2 of 2015
+### Files data-%Y%m%d-structure-20140727.csv contain actual data. Names of the files contain release date. Data aggregated by quarters of each year, for example
+    - data-20150127-structure-20140727.csv - data for whole 2014 year
+    - data-20150627-structure-20140727.csv - data for Q1 and Q2 of 2015
 
-File translate.csv is used to simplify translation from Russian to English. See usage in the kernel.
-Acknowledgements
+### File translate.csv is used to simplify translation from Russian to English. See usage in the kernel.
+### Acknowledgements
 
-Thanks to newspaper Komsomolskaya Pravda for bringing up the issue of missing kids in Russia.
+### Thanks to newspaper Komsomolskaya Pravda for bringing up the issue of missing kids in Russia.
 
-Thanks to Liza Alert - Volunteer Search and Rescue Squad for efforts in rescue of missing people in Russia.
+### Thanks to Liza Alert - Volunteer Search and Rescue Squad for efforts in rescue of missing people in Russia.
 
-Photo by Alessio Lin on Unsplash
-Inspiration
+### Photo by Alessio Lin on Unsplash
+### Inspiration
 
-Missing people, especially kids, is a serious problem. However there is not much detailed information about it. Russian officials provide overall information without detalisation of victim's age. As a result many speculations appear in media on this topic:
+### Missing people, especially kids, is a serious problem. However there is not much detailed information about it. Russian officials provide overall information without detalisation of victim's age. As a result many speculations appear in media on this topic:
 
     Last year about 200,000 reports of missing people were filed with police in Russia.
     45,000 kids lost every year
