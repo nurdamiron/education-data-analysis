@@ -1,4 +1,3 @@
-# Australian Children's Education & Care Quality Authority
 
 ## About Dataset
 
